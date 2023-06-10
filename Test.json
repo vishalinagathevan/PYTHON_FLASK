@@ -1,0 +1,21 @@
+coureses = [{'name': "Python programing certification",
+		    'course_id': "0",
+             'Description': "Python programming certification helps you learn"
+             "Python in the structured learning path with innovation"
+             "Out of the box projeccts maching the industry standrds",
+             'price': "visit Google.com to know more"},
+             
+            {'name': "Java programing certification",
+		    'course_id': "1",
+             'Description': "Java programming certification helps you learn"
+             "Java in the structured learning path with innovation"
+             "Out of the box projeccts maching the industry standrds",
+             'price': "visit Google.com to know more"}, 
+
+		   {'name': "Java script programing certification",
+		    'course_id': "2",
+             'Description': "Java script programming certification helps you learn"
+             "Java script in the structured learning path with innovation"
+             "Out of the box projeccts maching the industry standrds",
+             'price': "visit Google.com to know more"},	
+            ]
